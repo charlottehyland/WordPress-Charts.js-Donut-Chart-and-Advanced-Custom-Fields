@@ -1,4 +1,4 @@
-Wordpress: using Charts.js and Advanced Custom Fields to have website charts that can be easily edited in the WordPress back-end.
+Wordpress Code Snippet: using Charts.js and Advanced Custom Fields to have website charts that can be easily edited in the WordPress back-end.
 
 Dependencies:
 <ul>
@@ -8,3 +8,7 @@ Dependencies:
 </ul>
 
 In this example, we have a simple donut chart that is using a number field from ACF to display the chart.
+
+Here's the final product, please note, this snippet only shows how to build out the chart, not adding the number in the middle, or the caption:
+<img src="http://charlottehyland.com/wp-content/uploads/2017/11/donut-chart.png"/>
+
