@@ -9,6 +9,6 @@ Wordpress Code Snippet: using Charts.js and Advanced Custom Fields to have websi
 
 In this example, we have a simple donut chart that is using a number field from ACF to display the chart.
 
-Here's the final product, please note, this snippet only shows how to build out the chart, not how adding the number in the middle, or the caption:<br/>
+Here's the final product, please note, this snippet only shows how to build out the chart, not how to add the number in the middle, or the caption:<br/>
 <div style="margin: 10px auto;"><img src="http://charlottehyland.com/wp-content/uploads/2017/11/donut-chart.png"/></div>
 
