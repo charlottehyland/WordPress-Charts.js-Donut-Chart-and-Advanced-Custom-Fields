@@ -13,7 +13,6 @@
 
 
 
-
 <!-- Feed in single donut metric. Custom field must be a number field. -->
   <script>
     var theRemainder = 100-<?php the_field('donut_metric_number');?>;
@@ -22,8 +21,8 @@
         {
             data: [<?php the_field('donut_metric_number');?>, theRemainder],
             backgroundColor: [
-                "#fff",
-                "#414042"
+                "#fff", // Fill Color
+                "#414042" // Remainder Color
             ]
         }]
     };
