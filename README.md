@@ -2,7 +2,7 @@ Wordpress Code Snippet: using Charts.js and Advanced Custom Fields to have websi
 
 <strong>Dependencies:</strong>
 <ul>
-   <li>Advanced Custom Fields plugin installed and activated in WordPress.</li>
+   <li>Advanced Custom Fields plugin installed and activated in WordPress</li>
    <li>A number field created in ACF</li>
    <li>Chart.js installed, in this example I'm using Chart.js 2.5.0</li>
 </ul>
